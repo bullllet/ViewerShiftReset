@@ -6,6 +6,7 @@
 
     Version: 1.0.0
     Author:  tsukasa.rexen
+    Repository: https://github.com/bullllet/ViewerShiftReset/
 
     This AutoHotkey v2 script fixes the "stuck Shift key" bug in some Second Life viewers that can make chat input difficult or unintentionally trigger whisper mode.
 
