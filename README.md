@@ -5,8 +5,8 @@ An AutoHotkey v2 script for fixing Shift key bugs in Second Life viewers.
 This README contains both English and Japanese explanations.  
 このREADMEには英語と日本語の説明が含まれています。
 
-- [English](#readme-in-english)
-- [Japanese](#readme-in-japanese)
+- [English](#-readme-in-english)
+- [Japanese](#-readme-in-japanese)
 
 ---
 
