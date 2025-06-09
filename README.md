@@ -29,7 +29,7 @@ This AutoHotkey v2 script fixes the "stuck Shift key" bug in some Second Life vi
 ### 📦 How to Use
 
 1. Make sure you have [AutoHotkey v2](https://www.autohotkey.com/) installed.
-2. Download [ViewerShiftReset.ahk](https://github.com/bullllet/ViewerShiftReset/main/ViewerShiftReset.ahk).
+2. Download [ViewerShiftReset.ahk](https://github.com/bullllet/ViewerShiftReset/blob/main/ViewerShiftReset.ahk).
 3. Run `ViewerShiftReset.ahk`.
 
 ---
@@ -83,7 +83,7 @@ Second Lifeビューアで発生する「Shiftキー押しっぱなしバグ」�
 ### 📦  使い方
 
 1. [AutoHotkey v2](https://www.autohotkey.com/) をインストール。
-2. [ViewerShiftReset.ahk](https://github.com/bullllet/ViewerShiftReset/main/ViewerShiftReset.ahk) をダウンロード。
+2. [ViewerShiftReset.ahk](https://github.com/bullllet/ViewerShiftReset/blob/main/ViewerShiftReset.ahk) をダウンロード。
 3. `ViewerShiftReset.ahk` を実行。
 
 ---
